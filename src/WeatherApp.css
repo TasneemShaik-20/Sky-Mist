@@ -1,0 +1,29 @@
+.heading{
+    text-align: center;
+  margin-bottom: 20px;
+  font-weight: 600;
+ 
+
+}
+body {
+ /* background: linear-gradient(to bottom, #d7eaff, #b3d5ff,#8dc0ff); */
+  /* background: linear-gradient(to bottom,#cfefff,#a7dcff,#87cbff); */
+ background-image: url("https://img.freepik.com/free-photo/colorful-illuminated-light-bulbs-against-blue-sky_23-2147910282.jpg?semt=ais_hybrid&w=740&q=80"); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+
+}
+h2 {
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  background: linear-gradient(90deg, #12cff5, #af0fee);
+  -webkit-background-clip:text;
+   -webkit-text-fill-color: transparent;
+  margin-bottom:20px;
+}
+  /* */
+
+

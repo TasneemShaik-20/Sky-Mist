@@ -1,0 +1,26 @@
+.InfoBox card{
+    text-align: center;
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+     /* width: 450px; */
+    border-radius: 18px;
+    
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+
+ /*  margin: auto; */
+
+}
+
+.cardContainer {
+
+  /* background: rgba(8, 232, 248, 0.3); */
+   /* background: linear-gradient(to bottom right, #064052, #41c4f3); */
+  backdrop-filter: blur(15px);
+  padding: 20px;
+  border-radius:18px;
+}

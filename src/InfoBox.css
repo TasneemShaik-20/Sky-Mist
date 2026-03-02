@@ -4,7 +4,9 @@
 .cardContainer{
     display: flex;
     justify-content: center;
-     /* width: 450px; */
+     width: 90%;
+     max-width: 400px;
+     margin: auto;
     border-radius: 18px;
     
   border-radius: 20px;
